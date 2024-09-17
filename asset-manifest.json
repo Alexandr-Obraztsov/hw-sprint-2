@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Alexandr-Obraztsov/hw-sprint-2/static/css/main.2d919dca.css",
+    "main.js": "/Alexandr-Obraztsov/hw-sprint-2/static/js/main.cd39489c.js",
+    "static/js/787.66cb4309.chunk.js": "/Alexandr-Obraztsov/hw-sprint-2/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Alexandr-Obraztsov/hw-sprint-2/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Alexandr-Obraztsov/hw-sprint-2/index.html",
+    "main.2d919dca.css.map": "/Alexandr-Obraztsov/hw-sprint-2/static/css/main.2d919dca.css.map",
+    "main.cd39489c.js.map": "/Alexandr-Obraztsov/hw-sprint-2/static/js/main.cd39489c.js.map",
+    "787.66cb4309.chunk.js.map": "/Alexandr-Obraztsov/hw-sprint-2/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d919dca.css",
+    "static/js/main.cd39489c.js"
+  ]
+}
