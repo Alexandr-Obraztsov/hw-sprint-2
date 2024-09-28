@@ -6,6 +6,7 @@
 }
 
 .textarea {
+    text-wrap: nowrap;
     resize: none;
     display: block;
     overflow: hidden;
